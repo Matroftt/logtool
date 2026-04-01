@@ -1,1 +1,1 @@
-# logtool
+Simple log tool
